@@ -1,6 +1,6 @@
-### Hi there 👋
+### 
  
-Hello Folks I am **ALISHBA ARSHAD**
+Hola Amigo! 👋 I am **ALISHBA ARSHAD**
  
  **A software engineering undergraduate student from NED University, a motivated and passionate Web and Android developer.**
  
